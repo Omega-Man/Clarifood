@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clarifood</string>
+    <string name="app_login">Sign In</string>
+    <string name="app_create_account">Create Account</string>
+    <string name="app_guest">Continue as Guest</string>
+
+    <string name="add_button">Add Ingredients</string>
+    <string name="edit_button">Edit Ingredient List</string>
+    <string name="content_food">No ingredients added yet... \n lalala this font is not ugly anymore</string>
+    <string name="confidence_text">lalala 54% confident this is a working app \n is this correct?</string>
+    <string name="add_more_pictures">Add More</string>
+    <string name="continue_pictures">Next</string>
+    <string name="next_arrow">></string>
+    <string name="no_recipe_available">You can\'t make anything right now...</string>
+    <string name="make_foods">Here are foods that you can make!</string>
+</resources>
