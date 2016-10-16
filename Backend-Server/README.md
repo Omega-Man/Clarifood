@@ -7,11 +7,11 @@ Config file is stored at ./config/login.json
 takes the form of: 
 {
     "Database":{
-	    "host": 
-	    "user":
-	    "password": "
-	    "port":
-	    "database": 
+	    "host": "",
+	    "user": "",
+	    "password": "",
+	    "port": "",
+	    "database": ""
 	  }
 }
 
