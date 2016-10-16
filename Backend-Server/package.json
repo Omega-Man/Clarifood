@@ -1,0 +1,26 @@
+{
+  "name": "dubhacks-recipe-project",
+  "version": "1.0.0",
+  "description": "Backend for recipe project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RileyChang/dubhacks-recipe-project.git"
+  },
+  "author": "Riley and Derek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RileyChang/dubhacks-recipe-project/issues"
+  },
+  "homepage": "https://github.com/RileyChang/dubhacks-recipe-project#readme",
+  "dependencies": {
+    "async": "^2.1.1",
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  }
+}
